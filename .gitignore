@@ -1,2 +1,8 @@
 node_modules
 .env
+*.jpg
+*.png
+*.gif
+junk.js
+pull-server.sh
+sync.sh
